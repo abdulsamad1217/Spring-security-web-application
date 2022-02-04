@@ -46,5 +46,5 @@ Initially we need to deploy the server in the azure portal in which all the init
 ------------------------------------------
 
 ### Project Explanation 
-https://drive.google.com/file/d/1-grBV_L3ZNI28mUIKMaY46kdp_Qos8m8/view?usp=sharing
+https://youtu.be/3R1YJ5felsM
 
