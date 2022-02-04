@@ -1,9 +1,9 @@
 # Spring-security-web-application
 
 ## Description
-*Spring security web application provides you customizable Authorization & Authentication framework. 
-*The framework uses azure technology and MySQL Workbench to run the application. 
-*Initially we need to deploy the server in the azure portal in which all the initializations should be given in the server portal before accessing the web application. 
+Spring security web application provides you customizable Authorization & Authentication framework. 
+The framework uses azure technology and MySQL Workbench to run the application. 
+Initially we need to deploy the server in the azure portal in which all the initializations should be given in the server portal before accessing the web application. 
 
 ## Flow
 * Run the application(user your prefered IDE for spring-boot application)
